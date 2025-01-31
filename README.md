@@ -1,4 +1,3 @@
-# Praktikum-Jarkom
 
 # LAPORAN HASIL PRAKTIKUM
 
@@ -14,49 +13,59 @@ Alat dan Bahan
 
 1. Kabel UTP
 
-    ![kabel utp (1)](https://github.com/user-attachments/assets/414eb4dd-a02f-477e-b1c8-b3522c965d8e)
+   ![kabel utp utuh](https://github.com/user-attachments/assets/980f17d7-f5aa-4547-a421-f3c213cd02e0)
 
 
 2. Konektor RJ45
 
-   ![rj 45 (1)](https://github.com/user-attachments/assets/5978688a-68ac-462c-b902-a9bb355acc9e)
+   
+
+![rj45](https://github.com/user-attachments/assets/a87a00d1-3545-4e68-9bd4-b420b6361aeb)
+
+3. Crimping
 
 
-4. Crimping
+   ![crimping](https://github.com/user-attachments/assets/701d44d4-9263-47d2-84bb-2e3afa9500a4)
 
-![crimping](https://github.com/user-attachments/assets/52d499aa-d640-4646-b3bf-56141185dfe8)
+4. LAN Kabel Tester
 
    
-5. LAN Kabel Tester
 
-   
-![tester](https://github.com/user-attachments/assets/d3ca0252-4f72-4986-8429-2eb8b1bcd10c)
-
+![tester](https://github.com/user-attachments/assets/9b0d2db1-2907-4758-8633-75273d2a8e94)
 
 ## Percobaan
 
-- *susun kabel*
+- *potong kabel*
 
- ![susun kabel](https://github.com/user-attachments/assets/1189c1db-28f2-448c-ad02-4d8cd8cef5a2)
+![potongkabel](https://github.com/user-attachments/assets/3436a758-0842-4171-8346-0ca60102154c)
 
-- *press kabel*
+- *hasil potongan kabel*
 
-  ![press](https://github.com/user-attachments/assets/424e5c65-fce4-4e08-b628-474bf74f58fc)
+![kabel utp terpotong](https://github.com/user-attachments/assets/76cb9574-6384-4547-87ba-65dd7e2bf3bb)
 
-- *hasil percobaan*
+- *susun warna kabel*
 
-  ![hasil](https://github.com/user-attachments/assets/39ddf615-4571-4a09-a342-fbc547d972f9)
+![susun urutan kabel](https://github.com/user-attachments/assets/bf392904-5df2-447d-8d76-e201e06baec2)
 
-- *straight*
-
-  ![straight](https://github.com/user-attachments/assets/94f6c92b-a8ae-4707-87d6-dd4e3aef6e4f)
-
-- *cross*
-
-  ![cross](https://github.com/user-attachments/assets/a49a5544-a817-43d5-8b7b-9c9dcbb9fbc8)
+- *crimping kabel*
+![crimping kabel](https://github.com/user-attachments/assets/725cebfd-102b-4280-81b5-05241966cf62)
 
 
+- *kabel straight*
 
+![kabel staright](https://github.com/user-attachments/assets/6cb3d252-4346-454f-b92d-697e4849c131)
+
+- *kabel cross*
+
+![kabel cross](https://github.com/user-attachments/assets/7541cedd-ef4b-4493-8670-2d9a6cc04bbf)
+
+- *test kabel straight menggunakan tester*
+![test kabl staright](https://github.com/user-attachments/assets/74cab076-8722-421e-ad1c-682e5447c401)
+
+- *test kabel cross menggunakan tester*
+
+
+![test kabel cross](https://github.com/user-attachments/assets/c6f2e4c0-5732-49a8-b488-2aa2795f1e8a)
 
 ---
 
@@ -70,14 +79,13 @@ Alat dan Bahan
 ## Analisis Percobaan  
 
 
-Setelah kedua ujung kabel terpasang dengan konektor RJ-45, gun
-akan alat penguji
-kabel (tester) untuk memeriksa kabel. Sambungkan kedua ujung kabel ke tester.
-Perhatikan indikator lampu pada tester. Jika semua lampu dari 1 hingga 8 pada
-kedua bagian tester menyala, berarti kabel yang dibuat berfungsi dengan baik. (Note:
-Jika salah satu atau beberapa lampu tidak menyala, ini menunjukkan adanya
-kesalahan dalam pemasangan konektor RJ-45 atau urutan kabel. Periksa dan
-perbaiki kesalahan yang mungkin terjadi)
+Setelah kedua ujung kabel dipasangi konektor RJ-45, langkah selanjutnya adalah memastikan kabel berfungsi dengan baik sebelum digunakan. Untuk itu, gunakan alat penguji kabel (tester) agar bisa mengecek apakah semua jalur dalam kabel sudah tersambung dengan benar.  
+
+Pertama, sambungkan kedua ujung kabel ke tester, lalu nyalakan alatnya. Perhatikan lampu indikator yang ada di tester. Saat pengujian berlangsung, lampu-lampu tersebut akan menyala satu per satu dari nomor 1 hingga 8 di kedua sisi alat. Jika semua lampu menyala secara berurutan tanpa ada yang terlewat, itu berarti kabel sudah terpasang dengan benar dan siap digunakan.  
+
+Namun, jika ada satu atau beberapa lampu yang tidak menyala, itu menandakan ada masalah dalam pemasangan kabel. Bisa jadi ada kesalahan dalam urutan kabel di dalam konektor RJ-45, atau mungkin ada salah satu kabel yang tidak terpasang dengan sempurna. Jika ini terjadi, sebaiknya segera periksa kembali konektor dan urutan kabelnya. Pastikan setiap kabel sudah terpasang sesuai standar yang digunakan, seperti TIA/EIA-568A atau TIA/EIA-568B. Jika ditemukan kesalahan, lepaskan konektornya, susun ulang kabel dengan benar, lalu pasang kembali konektor RJ-45 menggunakan alat crimping.  
+
+Setelah perbaikan selesai, lakukan pengujian ulang menggunakan tester. Ulangi proses ini sampai semua lampu indikator menyala dengan benar di kedua sisi tester. Jika semuanya sudah menyala sesuai urutan, berarti kabel siap digunakan dan dapat diandalkan untuk jaringan.
 
 ---
 
